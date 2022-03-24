@@ -27,56 +27,43 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Work Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August 2015 – August 2016`
+__Salem Montessori School – Cleaning Manager__, Roanoke, VA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Cleaned break rooms, including sinks, countertops, microwaves, coffeemakers, refrigerators, tables and chairs.
+- Vacuumed carpets, mopped floors and washed blinds, using company-approved cleaning products.
+- Took care of problems as assigned by the building managers and owner when needed.
+- I was in charge of the other Janitors and made sure all duties were complete and done to proper standards
 
-### Data Science Lead
+`June 2021 – September 2021`
+__Grand Teton Lodge Company – Grounds Department__, Grounds Worker- Jackson, WY
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- I was responsible for mowing, brush removal, cutting fire wood, and general maintenance of the grounds
+- Learned to work in a team setting to solve a variety of problems efficiently during the work day 
+- Would be given lead a small group of workers as needed when splitting up for tasks for the day
 
 
-## Service and Work History
+## Leadership, Service, Honors
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`August 2017 - August 2019`
+__Missionary__, Church of Jesus Christ of Latter-Day Saints
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Volunteered as a missionary and served for 2 years teaching and working all day
 
 
+`January 2020 – June 2020`
+__Elders Quorum Presidency__, Church of Jesus Christ of Latter-Day Saints
+
+- Organize events and scheduling teachers and curriculum
+- Set up interviews and maintain regular communication with others
+
+__Eagle Scout__
+
+## Additional Information
+
+- Computer Skills: MS Word, Excel, PowerPoint, R and Python languages
+- Experience with outdoor events and activities
+- Work Eligibility: Eligible to work in the U.S, with no restrictions 
 
 <!-- ### Footer
 
